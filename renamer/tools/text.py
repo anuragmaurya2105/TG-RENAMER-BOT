@@ -18,7 +18,7 @@ class TEXT:
     
 ** Language:** [Python 3](https://www.python.org/)
 
-** FrameWork:** [Privacy matters!](https://t.me/boogeyman_anu
+** FrameWork:** [Privacy matters!](https://t.me/boogeyman_anu)
 
 ** Developer:** {bot_owner}
 

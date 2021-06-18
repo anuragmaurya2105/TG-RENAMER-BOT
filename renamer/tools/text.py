@@ -18,15 +18,15 @@ class TEXT:
     
 ** Language:** [Python 3](https://www.python.org/)
 
-** FrameWork:** [Pyrogram](https://github.com/pyrogram/pyrogram)
+** FrameWork:** [Privacy matters!](https://t.me/boogeyman_anu
 
 ** Developer:** {bot_owner}
 
-** Channel:** [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+** Channel:** [Quanta web shows](https://t.me/quanta_movies)
 
-** Group:** [Ns BOT SUPPORT](https://t.me/Ns_Bot_supporters)
+** Group:** [Boogeyman](https://t.me/boogeyman_anu)
 
-** Source Code:** [Press Me](https://github.com/Ns-AnoNymouS/TG-RENAMER-BOT)
+** Source Code:** [Press Me](https://github.com/anuragmaurya2105/TG-RENAMER-BOT)
 """
 
     HELP_USER = """**Follow Below Steps:**
@@ -49,14 +49,4 @@ I am a telegram renamer with permanent thumbnail.
 """
 
 
-    DONATE_USER = """**__Thanks for showing interest in donation.__**
- 
-Donate us to keep our services continously alive
-You can send any amount 
-of 20rs, 30rs, 50rs, 70rs, 100rs, 200rs
- 
-__--Payment Methods:--__
- 
-GooglePay / Paytm / PhonPay / paypal / Net Banking
- 
-**For Donate:** message me @MaxxRiderz"""
+    DONATE_USER = """**Privacy matters!"""
